@@ -25,7 +25,7 @@ tags:
 
 3. 之后一路回车
 
-### 在.ssh目录下创建并配置config文件
+### 在.ssh目录下创建并配置一个文件名叫config
 
 ```
 Host github.com
